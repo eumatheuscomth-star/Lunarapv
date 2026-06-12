@@ -1,0 +1,6 @@
+{
+  "name": "Lunara",
+  "description": "Página institucional da marca Lunara, operada pela MT Enterprises LTDA, focada em Astrologia, Autoconhecimento e Desenvolvimento Pessoal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
